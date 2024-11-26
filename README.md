@@ -32,8 +32,15 @@ The **Pick the Right Ranger Color Game** is an interactive Python game inspired 
 3. Open the Jupyter Notebook (`P01_Pick_the_Right_Ranger_Colour_Game.ipynb`) in Google Colab or any local Jupyter environment.
 4. Run the notebook cells to start playing the game!
 
+About the Developer
+Anubhav Kumar Tiwary
+This project was developed by Anubhav Kumar Tiwary. If you have any questions or suggestions, feel free to reach out.
+
 ## Conclusion
 This project helped me gain practical experience in Python programming while developing an engaging game. Through this process, I practiced essential coding skills and enhanced my understanding of user interaction in programming.
 
 ## Acknowledgments
 Special thanks to the Power Rangers franchise for the inspiration behind the game theme.
+
+## About the Developer
+This project was developed by **Anubhav Kumar Tiwary**. If you have any questions or suggestions, feel free to reach out.
